@@ -1,5 +1,3 @@
-<div dir="rtl">
-
 # Quiz App
 
 ## מטרה והקדמה
@@ -46,7 +44,6 @@
 4. נפתח Terminal (ctr+\`) ונריץ `npm install`.
 
 5. אחר כך נריץ `npm run dev` ונלחץ על הקישור לדפדן לראות את האפליקצה שלנו.
-</div>
 
 ---
 
@@ -121,5 +118,3 @@
 ![Application flowChart](../../../Pictures/alpha-quiz-flow.png)
 
 # בהצלחה
-
-</div>
