@@ -33,16 +33,16 @@
 
 הסבר על כל אחת מהפעולת הבאות ותן דוגמת קוד לשימוש בה:
 
-- Array.forEach()
-- Array.map()
-- Array.filter()
-- Array.reduce()
-- Array.find()
-- Array.sort()
-- Array.push()
-- Array.pop()
-- Array.unsift()
-- Array.shift()
+- `Array.forEach()`
+- `Array.map()`
+- `Array.filter()`
+- `Array.reduce()`
+- `Array.find()`
+- `Array.sort()`
+- `Array.push()`
+- `Array.pop()`
+- `Array.unsift()`
+- `Array.shift()`
 
 #### תרגיל Alpha Magic Factory (קובץ נפרד)
 
