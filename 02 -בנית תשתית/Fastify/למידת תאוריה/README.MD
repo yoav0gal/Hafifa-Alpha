@@ -17,7 +17,6 @@
 ![HTTP-Request-Response Model](../../../Pictures/HTTP-Request-Response%20Model.jpg)
 
 - [המשיכו לקרוא כאן](https://medium.com/@imakashsharma135/understanding-request-and-response-model-a-general-overview-831c24d2288)
-
 - [צפו בסרטון זה](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
 
 ### API (Application Programming Interface)
