@@ -1,5 +1,6 @@
 # Hafifa-Alpha
 
+![Alpha](Pictures/Alpha.png)
 ברוך הבא לחפיפה הרשמית של צוות אלפא !
 שמחים שאתה כאן איתנו!
 
