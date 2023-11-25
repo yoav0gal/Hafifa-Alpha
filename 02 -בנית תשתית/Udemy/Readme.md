@@ -1,3 +1,7 @@
+# קרסי Udemy 02
+
+![Udemy](../../Pictures/udemy.png)
+
 ## תוכנית עבודה
 
 נמשיך עם קורסי [הudemy](https://www.udemy.com/home/my-courses/learning/) מהחשבון של הצוות (פרטי התחברות אצל החופף והרשץ)

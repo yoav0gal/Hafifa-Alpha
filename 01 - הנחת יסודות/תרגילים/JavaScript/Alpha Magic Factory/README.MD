@@ -1,5 +1,7 @@
 # Alpha Magic Factory Task
 
+![The Magic Factory](../../../../Pictures/theMagicFactorypng.png)
+
 ### הקדמה
 
 ברוך הבא לתרגיל Data Processer בוא נתנסה קצת בעבודה עם מערכים , חשיבה מחוץ לקופסא ונתרגל לרעיון של פונקציות כמשתנים.

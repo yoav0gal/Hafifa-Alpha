@@ -1,5 +1,7 @@
 # שלב 1 - הנחת יסודות
 
+![Peramid building](../Pictures/buildingTheBasics.jpg)
+
 ## תיאור השלב
 
 בשלב זה ילמד הבסיס של פיתוח וובי, בסופו הנחפף ישלוט ברמה בסיסית בreact, JavaScript, TypeScript ו css.

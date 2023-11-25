@@ -1,4 +1,6 @@
-## קצת Bash
+# קצת Bash
+
+![Bash](../../Pictures/Bash_logo.png)
 
 במהלך ההעבודה בצוות יצא לכם לעבוד לעיתים עם הcommand line או ה terminal של VSC.
 
@@ -10,3 +12,5 @@
 
 - [Command Line](https://linuxjourney.com/lesson/the-shell#)
 - [Text-Fu](https://linuxjourney.com/lesson/stdout-standard-out-redirect)
+
+![Linux](../../Pictures/linux.jpg)
