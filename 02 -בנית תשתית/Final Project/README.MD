@@ -1,6 +1,6 @@
 # LevelUp app
 
-![level-up logo](../../Pictures/levelUp.png)
+![level-up logo](../../Pictures//levelUp.png)
 
 ## מטרה והקדמה
 
@@ -15,7 +15,9 @@
 
 ## טכנולוגיות
 
-**האפליקציה כולה תכתב בtypeScript!**
+**האפליקציה כולה תכתב בtypeScript**
+
+**במהלך כל העבודה עליה נעבוד עם git פתחו bracnh** [**ברפו זה**](https://github.com/yoav0gal/LevelUp) **ותעלו אותו!**
 
 ### חלק קדמי (Front-End)
 
@@ -32,11 +34,34 @@
 2. **SQLite Database**: ישמש לאחסון נתונים כמו פרופילי משתמש, היסטוריית אימונים, התקדמויות ומידע נוסף.
 3. **Docker**: ישמש לאריזת והפצת האפליקציה והסביבות שלה, ויעזור לשמור על עקביות בין סביבות הפיתוח, הבדיקה והפקה.
 
-## שלבי פיתוח האפליקציה
+## שלבים מומלצים בפיתוח הפרוייקט
 
-1. קריאת מסמסך האיפיון ותכנון האפליקציה בכלליות וdb באופן בסיסי.
-2. יבוא המידע על המזון מapi והכנסתו לקובץ זמני/db
-3. תכנון ובניית הdb
-4. תכנון האפליקציה ברמה הגבוהה
-5. דיזיין ריביו - design review מעבר תכנון הפרוייקט בכללי עם החופף.
-6. ביצוע הפרוייקט + cr תוך כדי.
+1. קריאת [מסמך האיפיון](./LevelUp%20details/Readme.md) בקפדנות.
+2. הבנת הדרישות מבחינת db ותכנון ה database (ERD).
+3. תכנון הקומפוננטות הגדולות והstate הכללי באפליקציה. + תכנון צד השרת
+4. ישיבה למעבר על התוכניות עם החופף.
+5. תחילת פיתוח.
+6. קוד ריביוס עם החופף תוך כדי.
+7. הצגת הפרוייקט לכל חברי הצוות.
+8. קוד רביו עם חברי צוות שונים.
+
+## דרישות לצד שרת:
+
+**על צד השרת לכלול דוקומנטצית openAPI** השתמשו ב [fastify-swagger](https://github.com/fastify/fastify-swagger) + [fastify-swagger-ui](https://github.com/fastify/fastify-swagger-ui)
+
+יש לכתוב סכמות מפורטות באמצעות [fastify-type-provider-typebox](https://github.com/fastify/fastify-type-provider-typebox) עבור כל נתיב!.
+
+השתמשו ב [fastify/autoload](https://github.com/fastify/fastify-autoload) לטעון את הפלאגינים שלכם!
+
+## דרישות ומסימות devops:
+
+1. כתבו את הסקריפט runFullStack.sh (יריץ את הפרונט והבאק בפקודה אחת).
+2. dockerfile - front
+3. dockerfile - back
+4. docker-compose - להכל
+5. dockerfile - להכל
+6. git - עבודה מסודרת
+
+## מתי סיימנו ? DOD (definition of done):
+
+כאשר כל האפליקציה רצה ב docker compose, בקוד קריא ומסודר, כל פיצרים שמצויינים במסמך צריכים להיות קיימים אלא אם החופף אישר להוריד משהו.
